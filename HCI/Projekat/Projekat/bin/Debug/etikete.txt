@@ -1,0 +1,1 @@
+[{"Oznaka":"ASdasd","Boja":"#FFE6E6FA","Color":"#FFE6E6FA","Opis":"asdasdasd"}]
