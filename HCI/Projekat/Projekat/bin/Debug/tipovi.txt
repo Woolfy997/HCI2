@@ -1,1 +1,0 @@
-[{"Oznaka":"sadasdawdasd","Naziv":"asdawdasda","Opis":"dasdsadawfdfsdfsdfxcvz","Slika":"C:\\Users\\Woolfy\\Desktop\\HCI Projekat Tim11\\HCI-master\\Projekat\\Projekat\\Images\\placeholder.png"},{"Oznaka":"dfdsgdgdsg","Naziv":"dfgsdfgdfs","Opis":"gsdfgsdfgsdf","Slika":"C:\\Users\\Woolfy\\Desktop\\HCI Projekat Tim11\\HCI-master\\Projekat\\Projekat\\Images\\placeholder.png"}]
